@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is a Simple SIN Validator built with Vue.js, Vite, and TypeScript.
+This project is a Simple SIN Validator built with Vue, Vite, and TypeScript.
 
     Rules
     - A valid SIN consists of exactly 9 digits and spaces.
