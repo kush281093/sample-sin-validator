@@ -16,8 +16,8 @@ This project is a Simple SIN Validator built with Vue.js, Vite, and TypeScript.
 ## Setup Instructions
 
 1. **Clone the repository**:
-   git clone <repository-url>
-   cd <directory>
+   git clone < url >
+   cd < respository >
 
 2. **Install dependencies**:
     npm install
